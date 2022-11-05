@@ -1,0 +1,16 @@
+body {
+    background-color: #b1ba82;
+    color: #f7f7ff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 20px;
+  }
+
+  .blue {
+    color: #37a0d0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-size: 40px;
+  }
+
+#nm {
+    color: #d037b7;
+}
